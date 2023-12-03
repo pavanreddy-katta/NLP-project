@@ -25,8 +25,10 @@ NLP-project/
 ├── datasets/                        -- directory for datasets
 ├── graphModels.py                   -- graph model classes
 ├── graphModels_utils.py             -- helper functions for graph model classes
+├── NLP_logBook.docx
 ├── inference_robustness.ipynb       -- contains code for robustness on the test set
 ├── inference_robustness_512.ipynb   -- contains code for robustness on the Amazon 512 test set
+├── code_mixed.ipynb
 ├── quick_requirements.txt
 ├── statistical_analysis.ipynb
 └── translate.ipynb
