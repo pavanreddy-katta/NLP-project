@@ -15,17 +15,17 @@ To run the model on the Amazon-512 dataset run the Notebook file A2048_Multi-rob
 Note: Change the path of the datasets accordingly
 
 .
-├── A2048.ipynb                    --contains Robustness code for the English language on the A2048 dataset
-├── A2048_Multi-roberta.ipynb      ---contains Multilingualty code for all language on A2048 dataset
-├── A512.ipynb                     --contains Robustness code for the English language on the A512 dataset
-├── datasets
-├── graphModels.py                 --graph model classes.
-├── graphModels_utils.py           --helper functions for graph model classes.
-├── inference_robustness.ipynb     --contains code for robustness on test set
-├── inference_robustness_512.ipynb --contains code for robustness on amazon 512 test set
-├── quick_requirements.txt      
+├── A2048.ipynb                    -- contains Robustness code for the English language on the A2048 dataset
+├── A2048_Multi-roberta.ipynb      -- contains Multilingualty code for all languages on A2048 dataset
+├── A512.ipynb                     -- contains Robustness code for the English language on the A512 dataset
+├── graphModels.py                 -- graph model classes
+├── graphModels_utils.py           -- helper functions for graph model classes
+├── inference_robustness.ipynb     -- contains code for robustness on the test set
+├── inference_robustness_512.ipynb -- contains code for robustness on the Amazon 512 test set
+├── quick_requirements.txt
 ├── statistical_analysis.ipynb
 └── translate.ipynb
+
 
 
 Citation:
