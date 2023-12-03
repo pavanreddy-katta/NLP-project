@@ -1,4 +1,4 @@
-This is the pyTorch implementation of HiPool: Hierarchical Pooling for Long Document Classification, published in ACL 2023.
+This is the PyTorch implementation of HiPool: Hierarchical Pooling for Long Document Classification, published in ACL 2023.
 
 The code is based on this implementation: https://github.com/IreneZihuiLi/HiPool/
 
@@ -10,22 +10,23 @@ https://drive.google.com/drive/folders/1L82q7hyoUm-w3tPXJpSmMbg5RDINiodV?usp=dri
 
 
 Running:
-To run the model on Amazon-2048 dataset run the Notebook file A2048_Multi-roberta.ipynb
-To run the model on Amazon-512 dataset run the Notebook file A2048_Multi-roberta.ipynb
+To run the model on the Amazon-2048 dataset run the Notebook file A2048_Multi-roberta.ipynb
+To run the model on the Amazon-512 dataset run the Notebook file A2048_Multi-roberta.ipynb
 Note: Change the path of the datasets accordingly
 
-File structure:
-├── A2048.ipynb                    --contains Robustness code for English language on A2048 dataset
-├── A2048_Multi-roberta.ipynb      --contains Multilingualty code for all language on A2048 dataset
-├── A2048_Multi.ipynb              
-├── A512.ipynb                      --contains Robustness code for English language on A512 dataset
-├── graphModels.py                  -- graph model classes.
-├── graphModels_utils.py            -- helper functions for graph model classes.
-├── inference_robustness.ipynb      --contains code for robustness on testset
-├── inference_robustness_512.ipynb  --contains code for robustness on 512 testset
-├── quick_requirements.txt          
+.
+├── A2048.ipynb                    --contains Robustness code for the English language on the A2048 dataset
+├── A2048_Multi-roberta.ipynb      ---contains Multilingualty code for all language on A2048 dataset
+├── A512.ipynb                     --contains Robustness code for the English language on the A512 dataset
+├── datasets
+├── graphModels.py                 --graph model classes.
+├── graphModels_utils.py           --helper functions for graph model classes.
+├── inference_robustness.ipynb     --contains code for robustness on test set
+├── inference_robustness_512.ipynb --contains code for robustness on amazon 512 test set
+├── quick_requirements.txt      
 ├── statistical_analysis.ipynb
 └── translate.ipynb
+
 
 Citation:
 @inproceedings{li2023hipool,
