@@ -13,7 +13,7 @@ Running:
 To run the model on the Amazon-2048 dataset run the Notebook file A2048_Multi-roberta.ipynb
 To run the model on the Amazon-512 dataset run the Notebook file A2048_Multi-roberta.ipynb
 Note: Change the path of the datasets accordingly
-
+```bash
 NLP-project/
 ├── A2048.ipynb                      -- contains Robustness code for the English language on the A2048 dataset
 ├── A2048_Multi-roberta.ipynb        -- contains Multilingualty code for all languages on A2048 dataset
@@ -26,8 +26,7 @@ NLP-project/
 ├── quick_requirements.txt
 ├── statistical_analysis.ipynb
 └── translate.ipynb
-
-
+```
 
 
 
