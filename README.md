@@ -46,7 +46,8 @@ NLP-project/
   url={https://arxiv.org/abs/2305.03319}
 }
 
-This Project has been done as a part of CS 678 Advanced NLP course at George Mason University
+This Project has been done as a part of CS 678 Advanced NLP course at George Mason University under the guidance of Dr. Ziyu Yao - https://ziyuyao.org/ <br />
 Contributors for this repository: 
-Sumanth Manduru
-Pavan Kumar Reddy Katta
+Sumanth Manduru <br /> 
+Pavan Kumar Reddy Katta <br />
+
