@@ -45,3 +45,7 @@ NLP-project/
   year={2023},
   url={https://arxiv.org/abs/2305.03319}
 }
+
+Contributors for this repository: 
+Sumanth Manduru
+Pavan Kumar Reddy Katta
