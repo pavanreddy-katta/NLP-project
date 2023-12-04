@@ -48,6 +48,6 @@ NLP-project/
 
 This Project has been done as a part of CS 678 Advanced NLP course at George Mason University under the guidance of Dr. Ziyu Yao - https://ziyuyao.org/ <br />
 Contributors for this repository: <br />
-Sumanth Manduru <br /> 
-Pavan Kumar Reddy Katta <br />
+1. Sumanth Manduru <br /> 
+2. Pavan Kumar Reddy Katta <br />
 
