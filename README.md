@@ -46,6 +46,7 @@ NLP-project/
   url={https://arxiv.org/abs/2305.03319}
 }
 
+This Project has been done as a part of CS 678 Advanced NLP course at George Mason University
 Contributors for this repository: 
 Sumanth Manduru
 Pavan Kumar Reddy Katta
