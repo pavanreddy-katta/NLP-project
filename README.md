@@ -43,7 +43,7 @@ NLP-project/
   author={Li, Irene and Feng, Aosong and Radev, Dragomir and Ying, Rex},
   booktitle={Proceedings of the Association for Computational Linguistics (ACL)},
   year={2023},
-  url={https://arxiv.org/abs/2305.03319}
+  url={https://arxiv.org/abs/2305.03319
 }
 
 This Project has been done as a part of CS 678 Advanced NLP course at George Mason University under the guidance of Dr. Ziyu Yao - https://ziyuyao.org/ <br />
